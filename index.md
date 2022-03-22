@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Metodologias de Pesquisa em Humanidades Digitais
+Repositório da disciplina Metodologias de pesquisas em Humanidades Digitais 
+Vamos hospedar links sugeridos nas aulas, apresentações  e dicas de ferramentas 
 
-You can use the [editor on GitHub](https://github.com/DaianeRossi12/Humanidades-Digitais-PPGHCS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Dicas dos Convidados
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sugestões aula prof Leonardo Nascimento / UFBA
 
-### Markdown
+[Repositório Digital das Humanidades](https://labhdufba.github.io/redhbr/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Canal LABHDUFBA](https://www.youtube.com/c/LABHDUFBA)
 
-```markdown
-Syntax highlighted code block
+[Livro Introdução a Sociologia Digital: uma breve introdução](https://repositorio.ufba.br/bitstream/ri/32746/5/SociologiaDigitalPDF.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+[BRASIL, E.; NASCIMENTO, L. F. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. Revista Estudos Históricos, [S. l.], v. 33, n. 69, p. 196–219, 1 jan. 2020.](https://bibliotecadigital.fgv.br/ojs/index.php/reh/article/view/79933)
 
-- Bulleted
-- List
+[Apresentação prof Leonardo Nascimento](https://drive.google.com/file/d/1LwBKiJyNix8-pVEsr0YkDlmMbP1Knvhr/view)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Sugestões aula prof Ricardo Pimenta / IBICT/UFRJ
 
-[Link](url) and ![Image](src)
-```
+[Laboratório em Redes de Humanidades Digitais](http://www.larhud.ibict.br)
+    
+[Ferramentas e tutoriais](http://www.larhud.ibict.br/index.php?title=Ferramentas)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Sugestões de Aulas 
 
-### Jekyll Themes
+[Aula Magna: ¿Cómo podemos hacer humanidades digitales en América del Sur?](https://www.youtube.com/watch?v=XewWPtu6nzo)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaianeRossi12/Humanidades-Digitais-PPGHCS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Sugestões de leituras
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Racismo algorítmico](https://tarciziosilva.com.br/blog/destaques/posts/racismo-algoritmico-linha-do-tempo/)
