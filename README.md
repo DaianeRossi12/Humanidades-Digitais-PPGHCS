@@ -1,6 +1,14 @@
 # Metodologias de Pesquisa em Humanidades Digitais
-Repositório da disciplina Metodologias de pesquisas em Humanidades Digitais 
+Repositório da disciplina Metodologias de Pesquisas em Humanidades Digitais 
 Vamos hospedar links sugeridos nas aulas, apresentações  e dicas de ferramentas 
+
+
+## TAREFA PARA AULA 28/03
+Assistir a Aula Magna sugerida pelo prof. Fabio (disponível aqui no site, no item "sugestões de aulas") e aula [Debate sobre História Digital](https://www.youtube.com/watch?v=T-aRq1c3QiY).
+
+Como sugestão complementar também temos [Os desafios da História Digital na atualidade](https://www.youtube.com/watch?v=4xgdu1oLxuQ)
+
+
 
 ## Dicas dos Convidados
 
@@ -30,3 +38,6 @@ Vamos hospedar links sugeridos nas aulas, apresentações  e dicas de ferramenta
 ## Sugestões de leituras
 
 [Racismo algorítmico](https://tarciziosilva.com.br/blog/destaques/posts/racismo-algoritmico-linha-do-tempo/)
+
+
+
