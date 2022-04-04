@@ -97,4 +97,3 @@ Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas
 [Livro: Introdução a Sociologia Digital: uma breve introdução](https://repositorio.ufba.br/bitstream/ri/32746/5/SociologiaDigitalPDF.pdf)
 
 [Racismo algorítmico](https://tarciziosilva.com.br/blog/destaques/posts/racismo-algoritmico-linha-do-tempo/)
-
