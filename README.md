@@ -11,7 +11,7 @@ Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas
 
 
 
-# Dicas 
+#  Dicas
 
 
 ## Laboratórios/Portais de Humanidades Digitais
