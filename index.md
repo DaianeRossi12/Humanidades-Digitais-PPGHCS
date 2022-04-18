@@ -31,7 +31,11 @@ Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas
 
 [Biblioteca Brasiliana (Dicionários - entre eles: Dicionário de Medicina Popular (Chernoviz)) - USP](https://dicionarios.bbm.usp.br)
 
+[Dicionário de análise de sentimentos](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
+
 [Dicionário da Elite Política Republicana CPDOC/FGV](https://cpdoc.fgv.br/dicionario-primeira-republica/)
+
+[Dicionário Food and Agriculture Organization of the United Nations (FAO)](http://agrovoc.fao.org)
 
 [Dicionário Histórico-Biográfico das Ciências da Saúde no Brasil - COC/FIOCRUZ](https://www.dichistoriasaude.coc.fiocruz.br/)
 
@@ -79,11 +83,16 @@ Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas
 
 [A febre do digital na história: uma anamnese - Anita Lucchesi](https://youtu.be/g1RrGagQG_A)
 
+[Como fazer raspagens](https://www.youtube.com/playlist?list=PL2j2lj5EwHoIX9igO1SOksnsoARMCWBKW)
+
 [Debate sobre História Digital](https://www.youtube.com/watch?v=T-aRq1c3QiY)
 
+[Mineração de Dados - Data tools](https://www.youtube.com/playlist?list=PL2j2lj5EwHoJv8Lyin84jbllTwm8yNmuv)
+
 [Os desafios da História Digital na atualidade](https://www.youtube.com/watch?v=4xgdu1oLxuQ)
 
 [Os desafios da História Digital na atualidade](https://www.youtube.com/watch?v=4xgdu1oLxuQ)
+
 
 
 ## Sugestões de Leituras
