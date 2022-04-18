@@ -93,7 +93,7 @@ Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas
 
 [Os desafios da História Digital na atualidade](https://www.youtube.com/watch?v=4xgdu1oLxuQ)
 
-
+[Zotero](https://youtu.be/-wlXHhUfnSQ)
 
 ## Sugestões de Leituras
 
