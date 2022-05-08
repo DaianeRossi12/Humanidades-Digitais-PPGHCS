@@ -110,3 +110,5 @@ Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas
 
 ## Chamadas para trabalhos
 [Calenda: conferências, seminários, chamadas para artigos, na Europa e no Brasil](https://calenda.org/)
+
+[Plataforma 9: Portal cultural do mundo de Língua Portuguesa](https://plataforma9.com/)
