@@ -9,7 +9,7 @@ Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas
 
 [Aula prof Leonardo Nascimento](https://drive.google.com/file/d/1LwBKiJyNix8-pVEsr0YkDlmMbP1Knvhr/view)
 
-
+[Playlist com as aulas gravadas](https://youtube.com/playlist?list=PLQdGXlzUY2_cv6iU0BMqGgldHv6ImAxra)
 
 # Dicas 
 
