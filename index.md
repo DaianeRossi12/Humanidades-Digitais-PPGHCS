@@ -55,7 +55,9 @@ Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas
  
 [Ferramentas disponibilizadas pelo LARHUD/IBICT/UFRJ](http://www.larhud.ibict.br/index.php?title=Ferramentas)
 
-[Ferramenta heurística para a Hemeroteca Digital Brasileira - Eric Brasil](https://ericbrasiln.github.io/pyHDB/)
+[Ferramenta heurística para a Hemeroteca Digital Brasileira - Eric Brasil](https://ericbrasiln.github.io/pyHDB
+
+[Visualização de redes do Youtube com o Gephi](https://escoladedados.org/tutoriais/visualizando-redes-do-youtube-com-o-gephi/)
 
 
 
