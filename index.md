@@ -31,6 +31,8 @@ Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas
 
 [Biblioteca Brasiliana (Dicionários - entre eles: Dicionário de Medicina Popular (Chernoviz)) - USP](https://dicionarios.bbm.usp.br)
 
+[Biodiversity Heritage Library - repositório dos Archivos do Museu Nacional, por exemplo] (https://www.biodiversitylibrary.org/)
+
 [Dicionário de análise de sentimentos](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
 
 [Dicionário da Elite Política Republicana CPDOC/FGV](https://cpdoc.fgv.br/dicionario-primeira-republica/)
