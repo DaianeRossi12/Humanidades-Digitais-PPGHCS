@@ -3,6 +3,14 @@ Repositório da disciplina Metodologias de Pesquisas em Humanidades Digitais
 Vamos hospedar links sugeridos nas aulas, apresentações e dicas de ferramentas 
 
 
+# Minicurso: Historiografia das ciências: produção, metodologias e fontes na era digital
+  Aulas: 
+  [História Digital da Ciência e da Tecnologia: entre conceitos e práticas](https://drive.google.com/file/d/1taILFMyvZPnL0xkp3q4OH4xZtQLWwkoG/view?usp=sharing)
+  [Zotero: Tutorial prático](https://drive.google.com/file/d/1PpyKRLMqt_erF7VxT-i_U-SC-tWCwrWC/view?usp=sharing)
+  [Bancos de Dados para pesquisa histórica](https://drive.google.com/file/d/1mEOrq3-9qG2hrgmUp3zrocbh3TwCjgh9/view?usp=sharing)
+  [Análise e visualização de redes sociais](https://drive.google.com/file/d/14XnhmOz4WAYNdj9SlQ1CYw8wexiBufYp/view?usp=sharing)
+  [Análise de sentimentos](https://drive.google.com/file/d/1nXNsWpnYdT3aW8ErF4PMFE-cfzIUG6Xv/view?usp=sharing)
+
 # Aulas
 
 [Aula prof Eric Brasil](https://hd-fiocruz.netlify.app/#1)
